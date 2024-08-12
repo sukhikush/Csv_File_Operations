@@ -1,0 +1,12 @@
+{
+  "name": "csv_file_operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merge-csv-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
