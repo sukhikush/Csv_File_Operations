@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.6",
+    "replacestream": "^4.0.3"
+  }
 }
