@@ -13,7 +13,7 @@ let splitFileCurrentRowCnt = 0;
 let headerData;
 let splitFileCounter = 1;
 const folderPath =
-  "/home/sukhi/Downloads/Email_Pattern/Email_Files/Files/processedFile/Invalid/";
+  "/home/sukhi/Downloads/Vonage_Files/run/processFiles/test/";
 let writeHeader = true;
 let writerObject;
 

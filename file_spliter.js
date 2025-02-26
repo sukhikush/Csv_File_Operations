@@ -79,4 +79,4 @@ async function startSplitProcess(folderPath, batchSize, readyOnlyTop) {
   });
 }
 
-startSplitProcess('/home/sukhi/Downloads/Vonage_Files/', 1000, true);
+startSplitProcess('/home/sukhi/Downloads/Vonage_Files/run/processFiles/', 900000, false);
